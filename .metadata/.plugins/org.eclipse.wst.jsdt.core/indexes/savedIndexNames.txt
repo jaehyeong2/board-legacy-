@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\wogud2\eclipse-workspace\gesi\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3813728367.index
+3520289583.index
+132972177.index
+1332648387.index
+2822839020.index
+626395352.index
